@@ -27,6 +27,7 @@
  {
   "id": "palestine",
   "name": "HISTORIC PALESTINE",
-  "url": "https://tinselman.github.io/middle_east/"
+  "url": "https://tinselman.github.io/middle_east/",
+  "outOfOrder": true
  }
 ]
