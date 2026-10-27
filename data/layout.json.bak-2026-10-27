@@ -1,0 +1,71 @@
+{
+ "version": 2,
+ "ceiling": 3.6,
+ "doorHeight": 2.8,
+ "outline": {
+  "x0": 0,
+  "x1": 14,
+  "z0": -11,
+  "z1": 0,
+  "t": 0.4
+ },
+ "entrance": {
+  "x": 3.0,
+  "w": 2
+ },
+ "walls": [],
+ "doors": [],
+ "defaultPaint": "#f2f1ee",
+ "paint": {},
+ "hang": [
+  {
+   "id": "title",
+   "wall": "W",
+   "side": 1,
+   "u": -1.9,
+   "y": 1.6,
+   "text": {
+    "title": "An Exhibit of TIME MACHINES",
+    "sub": "Robyn C Miller"
+   }
+  }
+ ],
+ "machines": [
+  {
+   "id": "gaza",
+   "x": 1.9,
+   "z": -3.46,
+   "rot": 62.5
+  },
+  {
+   "id": "iran",
+   "x": 3.63,
+   "z": -5.52,
+   "rot": 37.5
+  },
+  {
+   "id": "sf1906",
+   "x": 6.06,
+   "z": -6.65,
+   "rot": 12.5
+  },
+  {
+   "id": "manhattan",
+   "x": 8.74,
+   "z": -6.65,
+   "rot": -12.5
+  },
+  {
+   "id": "disneyland",
+   "x": 11.17,
+   "z": -5.52,
+   "rot": -37.5
+  },
+  {
+   "id": "palestine",
+   "x": 12.9,
+   "z": -3.46,
+   "rot": -62.5
+  }
+ ]
+}

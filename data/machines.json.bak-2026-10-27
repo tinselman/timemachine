@@ -1,0 +1,33 @@
+[
+ {
+  "id": "gaza",
+  "name": "GAZA",
+  "url": "https://tinselman.github.io/gaza/"
+ },
+ {
+  "id": "iran",
+  "name": "IRAN WAR",
+  "url": "https://tinselman.github.io/iranWar/"
+ },
+ {
+  "id": "sf1906",
+  "name": "SAN FRANCISCO 1906",
+  "url": "https://tinselman.github.io/sf_fire/"
+ },
+ {
+  "id": "manhattan",
+  "name": "MANHATTAN",
+  "url": "https://tinselman.github.io/ny/"
+ },
+ {
+  "id": "disneyland",
+  "name": "DISNEYLAND",
+  "url": "https://tinselman.github.io/disneyland/"
+ },
+ {
+  "id": "palestine",
+  "name": "HISTORIC PALESTINE",
+  "url": "https://tinselman.github.io/middle_east/",
+  "outOfOrder": true
+ }
+]
